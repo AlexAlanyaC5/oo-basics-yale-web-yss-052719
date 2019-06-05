@@ -38,8 +38,7 @@ class Shoe
     puts "The Shoe has been repaired"
   end
 
-  
-  
-  
 end
+
+Shoe = 
  
