@@ -34,7 +34,9 @@ class Shoe
   
   attr_accessor :condition
     
-  
+  def cobble
+    puts "The Shoe has been repaired"
+  end
 
   
   
