@@ -1,4 +1,4 @@
-class Adidas
+class Shoe
   
 end
  
