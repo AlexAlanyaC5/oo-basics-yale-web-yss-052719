@@ -41,4 +41,4 @@ class Shoe
 end
 
 shoe = Shoe.new("Now they look like new")
- 
+shoe.cobble
