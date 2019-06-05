@@ -40,5 +40,5 @@ class Shoe
 
 end
 
-Shoe = 
+shoe = Shoe.new()
  
