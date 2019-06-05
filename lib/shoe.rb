@@ -35,10 +35,10 @@ class Shoe
   attr_accessor :condition
     
   def cobble
-    puts "The Shoe has been repaired"
+    puts "The shoe has been repaired"
   end
 
 end
 
-shoe = Shoe.new("Now they look like new")
+shoe = Shoe.new("Your shoe is as good as new")
 shoe.cobble
