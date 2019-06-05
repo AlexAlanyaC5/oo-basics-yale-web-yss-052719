@@ -32,7 +32,8 @@ class Shoe
     @material
   end
   
-  def tattered
+  def condition
+    @contiditon
   end
   
 end
