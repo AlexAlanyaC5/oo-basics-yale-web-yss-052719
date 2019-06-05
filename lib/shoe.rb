@@ -33,7 +33,7 @@ class Shoe
   end
   
   def condition
-    @contiditon
+    @contiditon = condition
   end
   
 end
