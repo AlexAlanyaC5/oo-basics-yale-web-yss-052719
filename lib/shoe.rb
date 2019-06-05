@@ -32,6 +32,7 @@ class Shoe
     @material
   end
   
+  def 
   
 end
  
