@@ -20,5 +20,6 @@ class Shoe
     @material = material
   end
   
+  
 end
  
