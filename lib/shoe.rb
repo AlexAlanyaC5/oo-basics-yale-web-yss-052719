@@ -32,7 +32,8 @@ class Shoe
     @material
   end
   
-  def 
+  def tattered
+  end
   
 end
  
