@@ -32,13 +32,11 @@ class Shoe
     @material
   end
   
-  def condition=(condition)
-    @contiditon = tattered
-  end
+  attr_accessor :condition
+    
   
-  def condition
-    @condition
-  end
+
+  
   
   
 end
